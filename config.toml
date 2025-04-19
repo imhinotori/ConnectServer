@@ -1,0 +1,13 @@
+#THIS IS AN EXAMPLE CONFIGURATION FILE
+
+[Connect_Server_Info]
+TCP_PORT=44405
+UDP_PORT=55601
+Max_Ip_Connection=10
+
+[Servers.0]
+Code=0
+Name="Server1"
+Address="127.0.0.1"
+Port=55901
+Hidden=false
